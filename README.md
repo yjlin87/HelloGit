@@ -8,6 +8,7 @@ Let’s get started with GitHub!
 * [Git 参考手册](http://gitref.justjavac.com/index.html)
 * [沉浸式学 Git](http://igit.linuxtoy.org/contents.html)
 * [Git Community Book](http://gitbook.liuhui998.com/index.html)
+* [Project showcases](https://github.com/explore/)
 
 ## 设置姓名和 Email
 ```
